@@ -1,0 +1,5 @@
+body { font-family: sans-serif; margin: 0; padding: 0; }
+.app { padding: 20px; }
+.board { display: flex; gap: 16px; margin-top: 20px; }
+.column { background: #eee; padding: 10px; border-radius: 6px; width: 250px; }
+.task-card { background: #fff; padding: 10px; border-radius: 6px; margin-bottom: 8px; }

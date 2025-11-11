@@ -1,0 +1,1 @@
+Usuário cria tarefa -> vai para A Fazer -> arrasta para outras colunas -> pode editar -> pode excluir.
